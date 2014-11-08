@@ -1,0 +1,4 @@
+CCRpractical
+============
+
+CCR practical training
